@@ -1,0 +1,6 @@
+# Menu Wilayah
+
+## Link
+
+[TPS 001](https://github.com/gigit-pemilu/pemilu-2024-61-kalimantan-barat/tree/main/pileg-dpr/hitung-suara/sub/61-kalimantan-barat/sub/06-kapuas-hulu/sub/09-selimbau/sub/2019-semalah/sub/001-tps)
+
