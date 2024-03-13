@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara Nasional"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 93
+    bar [6, 93, 23]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 6
+    "2" : 93
+    "3" : 23
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 6     | [6][p-1]    | 4,92       |
+| 2   | PRABOWO GIBRAN | 93    | [93][p-2]   | 76,23      |
+| 3   | GANJAR MAHFUD  | 23    | [23][p-3]   | 18,85      |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/61-kalimantan-barat/sub/03-sanggau/sub/13-toba/sub/2006-lumut/sub/009-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/61-kalimantan-barat/sub/03-sanggau/sub/13-toba/sub/2006-lumut/sub/009-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/61-kalimantan-barat/sub/03-sanggau/sub/13-toba/sub/2006-lumut/sub/009-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/70c2/pemilu/ppwp/61/03/13/20/06/6103132006009-20240214-224702--91c7c98e-3dd1-42a2-818a-7433a62d5be7.jpg
+
+https://sirekap-obj-formc.kpu.go.id/70c2/pemilu/ppwp/61/03/13/20/06/6103132006009-20240214-224937--adf81c35-dbfe-4ee9-abfe-538aeb7dfb39.jpg
+
+https://sirekap-obj-formc.kpu.go.id/70c2/pemilu/ppwp/61/03/13/20/06/6103132006009-20240215-024638--8004dcde-52e9-4369-bd66-9abde36bff5d.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-15 18:00:26 |
+
+
+

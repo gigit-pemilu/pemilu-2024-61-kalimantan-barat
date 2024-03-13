@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara Nasional"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 171
+    bar [33, 171, 15]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 33
+    "2" : 171
+    "3" : 15
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 33    | [33][p-1]   | 15,07      |
+| 2   | PRABOWO GIBRAN | 171   | [171][p-2]  | 78,08      |
+| 3   | GANJAR MAHFUD  | 15    | [15][p-3]   | 6,85       |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/61-kalimantan-barat/sub/12-kubu-raya/sub/06-kubu/sub/2005-pinang-luar/sub/007-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/61-kalimantan-barat/sub/12-kubu-raya/sub/06-kubu/sub/2005-pinang-luar/sub/007-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/61-kalimantan-barat/sub/12-kubu-raya/sub/06-kubu/sub/2005-pinang-luar/sub/007-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/b9e7/pemilu/ppwp/61/12/06/20/05/6112062005007-20240215-001427--8b1797ba-19a5-47cd-a6b3-30d84c724965.jpg
+
+https://sirekap-obj-formc.kpu.go.id/b9e7/pemilu/ppwp/61/12/06/20/05/6112062005007-20240215-005418--6076ed42-af8b-4580-9f11-5cb2c41f0eb1.jpg
+
+https://sirekap-obj-formc.kpu.go.id/b9e7/pemilu/ppwp/61/12/06/20/05/6112062005007-20240215-005545--b28cd827-cf19-4b5c-ae8c-2223e8b9714f.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-16 21:01:00 |
+
+
+
